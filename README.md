@@ -85,6 +85,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 👤 Author
 Nasif Rafidi
-📧 [Your Email Here]
-🔗 [Your LinkedIn/GitHub Here]
+📧 [rafidinasif117@gmail.com]
+🔗 [ LinkedIn](https://www.linkedin.com/in/md-nasif-rafidi-63a13b265/)/[GitHub Here](https://github.com/Nasif17)]
+
 
